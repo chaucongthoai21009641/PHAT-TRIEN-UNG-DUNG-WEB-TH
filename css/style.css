@@ -1,0 +1,100 @@
+@charset "utf-8";
+#container {
+    position: relative;
+    margin: 0 auto;
+    height: auto;
+    width: 1000px;
+}
+
+#banner {
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(132, 206, 243);
+    margin-bottom: 2px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.bn {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+#menu{
+    float: left;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(60, 121, 243);
+}
+
+#main {
+    float: left;
+    height: 500px;
+    width: 100%;
+}
+
+#left {
+    float: left;
+    height: 500px;
+    width: 150px;
+    background-color: rgb(213, 235, 248);
+    text-align: center;
+}
+
+#right {
+    float: right;
+    height: 500px;
+    width: 848px;
+    background-color: rgb(213, 235, 248);
+}
+
+#footer {
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color:  rgb(121, 201, 241);
+    margin-top: 2px;
+}
+
+.ft{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+#sanpham {
+    float: left;
+    height: 220px;
+    width: 160px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 6px;
+    margin-left: 6px;
+}
+
+#sanpham_ten {
+    float: left;
+    height: 25px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: #000000;
+}
+
+#sanpham_hinh {
+    float: left;
+    height: 174px;
+    width: 160px;
+    overflow: hidden;
+}
+
+
+#sanpham_gia {
+    float: left;
+    height: 25px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: #e20909;
+}

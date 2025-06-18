@@ -5,6 +5,7 @@ Các chức năng chính như:
 + Xem chi tiết sản phẩm
 + Đặt hàng
 + Quản lý sản phẩm (thêm, xóa, sửa)
++ Tìm kiếm sản phẩm
 
 Công nghệ sử dụng:
 + Front-end: HTML, CSS
